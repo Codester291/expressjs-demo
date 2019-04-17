@@ -1,0 +1,6 @@
+{
+    "name": "Express-app Devs",
+    "mail": {
+        "host" : "dev-mail-server"
+    }
+}
